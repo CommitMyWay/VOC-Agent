@@ -6,7 +6,7 @@
 
 Manual competitor research burns hours. This agent automates the full pipeline: crawl public reviews → classify and score them with AI → produce structured reports with prioritized action proposals.
 
-**Current focus:** Vietnamese fintech apps — MoMo, ZaloPay, VNPay, ShopeePay.
+**Current focus:** Vietnamese fintech apps — MoMo, Zalopay, VNPay, ShopeePay.
 
 ---
 
