@@ -41,11 +41,11 @@ User Intent (natural language)
 
 | Source | Priority | Tool |
 |--------|----------|------|
-| Google Play reviews | 1 | `google-play-scraper` / direct scrape |
-| App Store reviews | 1 | `app-store-scraper` |
-| Voz / Tinhte | 2 | Direct HTML scraping |
-| Reddit | 2 | Apify actors |
-| YouTube comments | 3 | YouTube Data API v3 (10k req/day free) |
+| Google Play reviews | 1 | Direct scrape |
+| App Store reviews | 1 | Direct scrape |
+| Voz / Tinhte | 2 | Direct scrape  |
+| Reddit | 2 | Direct scrape |
+| YouTube comments | 3 | Direct scrape |
 
 ---
 
